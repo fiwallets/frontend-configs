@@ -2,7 +2,7 @@
 		"title": "Suncex Testnet",
 		"url": "https://frontend.suncex.com/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/fiwallets/frontend-configs/main/configs/network-icons/optimism.svg"
+		"icon": "https://raw.githubusercontent.com/fiwallets/frontend-configs/main/configs/network-icons/suncex.svg"
 	},
 	{
 		"title": "Base Göerli",
