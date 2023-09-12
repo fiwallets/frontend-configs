@@ -1,0 +1,14 @@
+[ {
+		"title": "Suncex Testnet",
+		"url": "https://frontend.suncex.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/fiwallets/frontend-configs/main/configs/network-icons/optimism.svg"
+	},
+	{
+		"title": "Base Göerli",
+		"url": "https://base-goerli.blockscout.com/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg",
+		"invertIconInDarkMode": true
+	}
+]
