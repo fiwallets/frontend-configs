@@ -1,0 +1,14 @@
+[ {
+		"title": "Fvidi L2",
+		"url": "https://scan.fvidi.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/fiwallets/frontend-configs/main/configs/network-icons/fvidi.svg"
+	},
+	{
+		"title": "FDX Chain",
+		"url": "https://scan.5dax.com/",
+		"group": "Mainnets",
+		"icon": "https://scan.5dax.com/images/5dax_logo-021d75c91f2edcd834197472068ea050.svg",
+		"invertIconInDarkMode": true
+	}
+]
