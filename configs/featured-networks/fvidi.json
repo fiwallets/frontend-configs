@@ -5,7 +5,7 @@
 		"icon": "https://raw.githubusercontent.com/fiwallets/frontend-configs/main/configs/network-icons/fvidi.svg"
 	},
 	{
-		"title": "FDX Chain",
+		"title": "5DAX Chain",
 		"url": "https://scan.5dax.com/",
 		"group": "Mainnets",
 		"icon": "https://scan.5dax.com/images/5dax_logo-021d75c91f2edcd834197472068ea050.svg",
