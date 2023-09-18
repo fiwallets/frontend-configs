@@ -1,0 +1,14 @@
+[ {
+		"title": "VinDAX L2",
+		"url": "https://op.vindax.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/fiwallets/frontend-configs/main/configs/network-icons/vindax.svg"
+	},
+	{
+		"title": "VinDAX Chain",
+		"url": "https://scan.vindax.com/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/fiwallets/frontend-configs/main/configs/network-icons/vindax.svg",
+		"invertIconInDarkMode": false
+	}
+]
