@@ -1,0 +1,53 @@
+[{
+    "title": "Apache Scan",
+    "links": [{
+            "text": "Home",
+            "url": "https://apachescan.neva.network/"
+        },
+        {
+            "text": "Bridge",
+            "url": "https://apachebridge.neva.network/"
+        }
+    ]
+},
+{
+    "title": "Developers",
+    "links": [{
+            "text": "Documentation",
+            "url": "https://docs.neva.network/"
+        },
+        {
+            "text": "Status",
+            "url": "https://status.neva.network/"
+        },
+        {
+            "text": "Bug bounty",
+            "url": "https://immunefi.com/bounty/neva/"
+        },
+        {
+            "text": "Dev blog",
+            "url": "https://blog.neva.network/"
+        },
+        {
+            "text": "GitHub",
+            "url": "https://github.com/NevaNetwork"
+        }
+    ]
+},
+{
+    "title": "Community",
+    "links": [{
+            "text": "Discord",
+            "url": "https://discord.com/invite/"
+        },
+        {
+            "text": "Twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "text": "Twitch",
+            "url": "https://www.twitch.tv/"
+        }
+    ]
+}
+]
